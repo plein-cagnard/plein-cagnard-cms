@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_navbar_text_links",
+  "info": {
+    "displayName": "Text Links",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
